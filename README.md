@@ -84,11 +84,3 @@ I'm a passionate **AI & Backend Engineer** currently pursuing my **MTech in Comp
 </div>
 
 ---
-
-<div align="center">
-
-⭐️ *"Building systems that scale — from OS kernels to LLM pipelines."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhautik979&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
