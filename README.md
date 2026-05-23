@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Bhautik Ramani
+# Hello, I'm Bhautik Ramani
 
-### 🤖 AI & Backend Engineer | RAG Pipelines • LLM Agents • Distributed Systems
-### 🎓 MTech CS @ IIIT Hyderabad
+###  AI & Backend Engineer | RAG Pipelines • LLM Agents • Distributed Systems
+###  MTech CS @ IIIT Hyderabad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhautikramani9-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhautikramani9/)
 [![GitHub](https://img.shields.io/badge/GitHub-bhautik979-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhautik979)
@@ -15,23 +15,12 @@
 
 ## 🧠 About Me
 
-```python
-class BhautikRamani:
-    def __init__(self):
-        self.name        = "Bhautik Ramani"
-        self.role        = "AI & Backend Engineer"
-        self.education   = "MTech CSE @ IIIT Hyderabad (GPA: 7.68)"
-        self.undergrad   = "BTech IT @ Dharmsinh Desai University (GPA: 8.2)"
-        self.location    = "Hyderabad, India"
-        self.interests   = ["RAG Pipelines", "LLM Agents", "Distributed Systems",
-                            "Systems Programming", "Machine Learning"]
-        self.currently   = "Building AI-powered financial agents @ BetterCallBrain"
+I'm a passionate **AI & Backend Engineer** currently pursuing my **MTech in Computer Science** at IIIT Hyderabad. I love building systems that scale — from low-level OS kernels and distributed systems to production-ready LLM pipelines and intelligent AI agents.
 
-    def fun_fact(self):
-        return "97.78 percentile in GATE 2024 🎯 | Dean's List — Top 15% 🏆"
-```
-
----
+- 🎓 **MTech CSE** @ IIIT Hyderabad 
+- 📍 Based in **Hyderabad, India**
+- 💼 **Software Engineer Intern** at **BetterCallBrain**, building RAG pipelines and AI financial agents
+- 🔍 Interested in **RAG Pipelines, LLM Agents, Distributed Systems, Systems Programming & Machine Learning**---
 
 ## ⚡ Tech Stack
 
@@ -73,15 +62,6 @@ class BhautikRamani:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhautik979&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 📚 Education
-
-| 🎓 Degree | 🏫 Institute |
-|---|---|---|---|
-| MTech — Computer Science & Engineering | IIIT Hyderabad |
-| BTech — Information Technology | Dharmsinh Desai University |
 
 ---
 
